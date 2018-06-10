@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Include the IO-Run input/output files
+!*.inp
+!*.oac

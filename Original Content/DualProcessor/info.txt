@@ -1,0 +1,31 @@
+by:leo.0263
+
+Given N jobs todo, if there is a dual core processor capable of only handling one job at a time,
+find out the maximum jobs able to be processed by both core. Print out the total working time of
+both processor core.
+
+A job is described by two value : its start time and job duration. Assuming that we know all
+of the jobs information beforehand, can we cherry pick those jobs to make both processor core
+minimize their idle time.
+
+Sample Input
+------------
+5
+1 6
+5 10
+5 20
+6 20
+10 20
+
+Sample Output
+-------------
+
+Explanation
+-----------
+We can draw those jobs into a timetable as such : 
+  123456789012345678901234567890
+1:======
+2:    ==========
+3:    ====================
+4:     ====================
+5:         =====================

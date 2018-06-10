@@ -12,7 +12,7 @@ So they are not lost in the void. The code I mean.
 
 ## how?
 
-I'm uploading my surviving code while cleaning and formatting them in a cleaner, readable,ready-to-run format.
+I'm uploading my surviving code while cleaning and formatting them in a cleaner, readable, ready-to-run format.
 
 ## setup
 
@@ -28,4 +28,4 @@ The most important combination was the VS-Code + IO-Run plugin. It really simpli
 
 ## misc
 
-Samsung R&D held a global "certification" in a Competitive Programming Challenges format periodically to hone it's developers programming skill. The contest format is much like ACM-ICPC but held monthly and had one problem only. Passing developers are awarded with "certification level" that gradually increases the challenge level.
+Samsung R&D held a global, periodically "certification" in a Competitive Programming Challenges format. It aims to hone it's developers programming skill. The contest format is much like ACM-ICPC but held monthly and had one problem only. Passing developers are awarded with "certification level" that gradually increases the challenge level.
