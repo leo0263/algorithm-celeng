@@ -15,8 +15,10 @@ class Solution_BruteForce {
         }
         return null;
     }
-} // time: O(n^2)  space:O(1)
-
+} 
+// time: O(n^2)  space:O(1)
+// Runtime 38ms Beats 45.35% of users with Java
+// Memory 44.76MB Beats 52.76% of users with Java
 
 
 
@@ -37,4 +39,7 @@ class Solution_HashTable {
         }
         return null;
     }
-} // time: O(n)  space:O(n)
+} 
+// time: O(n)  space:O(n)
+// Runtime 2ms Beats 97.71% of users with Java
+// Memory 45.05MB Beats 13.62% of users with Java

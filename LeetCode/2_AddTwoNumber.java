@@ -1,3 +1,5 @@
+// ref: https://leetcode.com/problems/add-two-numbers/
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -48,7 +50,10 @@ class Solution {
 
         return head;
     }
-} // time: O(1)  space:O(n)
+} 
+// time: O(1)  space:O(n)
+// Runtime 1ms Beats 100.00% of users with Java
+// Memory 44.25MB Beats 61.09% of users with Java
 
 
 
