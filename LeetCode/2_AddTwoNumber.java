@@ -55,6 +55,9 @@ class Solution {
 // Runtime 1ms Beats 100.00% of users with Java
 // Memory 44.25MB Beats 61.09% of users with Java
 
+/* note:
+ * relearn about single LinkedList in Java
+ */
 
 
 /**

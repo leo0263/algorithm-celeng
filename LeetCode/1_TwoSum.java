@@ -43,3 +43,11 @@ class Solution_HashTable {
 // time: O(n)  space:O(n)
 // Runtime 2ms Beats 97.71% of users with Java
 // Memory 45.05MB Beats 13.62% of users with Java
+
+/* note:
+ * relearn about HashMap
+ *   Map <Integer, Integer> hashMap = new HashMap<>();
+ *   hashMap.put(key, value)
+ *   hashMap.get(key) --> return it's value
+ *   hashMap.containsKey(key) --> check if there's any value for that key
+ */
